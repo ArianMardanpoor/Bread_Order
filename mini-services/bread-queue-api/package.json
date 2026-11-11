@@ -1,0 +1,9 @@
+{
+  "name": "bread-queue-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Launcher for the Bread Queue Flask API (auto-started by the sandbox dev system)",
+  "scripts": {
+    "dev": "bash start.sh"
+  }
+}
